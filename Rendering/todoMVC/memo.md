@@ -1,0 +1,5 @@
+- cloneNode(true) : DOM을 복제한다.
+- view 함수를 통해 컴포넌트를 렌더링 시킨다. 분리된 DOM을 사용하면 성능 향상을 기대할수 있다.
+- requestAnimationFrame() : 렌더링 엔진
+- data-component: view 함수의 필수 호출을 대신해준다.
+- registry.js : 모든 구성 요소의 index
