@@ -3,3 +3,4 @@
 - requestAnimationFrame() : 렌더링 엔진
 - data-component: view 함수의 필수 호출을 대신해준다.
 - registry.js : 모든 구성 요소의 index
+- diff 알고리즘 : 상태나 프로퍼티가 변해서 DOM을 업데이트 해야 되는 경우 변경된 부분만 감지해 바뀐 부분만 업데이트하는데 변경된 부분만 감지하는 방법
